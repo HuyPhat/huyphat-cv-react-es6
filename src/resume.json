@@ -1,0 +1,125 @@
+{
+  "basics": {
+    "name": "Huy Phat",
+    "label": "Web Developer",
+    "picture": "profilePhoto.jpg",
+    "email": "nowwearecool@gmail.com",
+    "phone": "0907.967.028",
+    "website": "https://github.com/HuyPhat",
+    "summary": "For 3+ years I have kept challenging myself with cutting-edge languages and frameworks.My concentration have always been html, css & javascript but I have also worked as a full stack js developer creating business web applications. At current company, Biglabs, I am building a ReactJS visualization application. I have also built an AngularJS tenant application and a BackboneJS shopper application. I am interested in full stack javascript development and have recently been experimenting a personal projects with ExpressJS and React. I have been using build tools such as Gulp and Webpack to manage modules, loader, and building tasks. I am using Git to manage code in team. ",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Ho Chi Minh",
+      "countryCode": "VN"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "HuyPhat",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "HuyPhat",
+        "url": "https://github.com/HuyPhat"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Biglabs",
+      "position": "Front End Developer",
+      "website": "",
+      "startDate": "2015-12-07",
+      "endDate": "",
+      "summary": "Working as a Front End developer as part of company developing html/css/javascript solutions to integrate with the backend systems for the web applications.",
+      "highlights": [
+        "Building a visualization project using ReactJS, d3, and Webpack from scratch.",
+        "Maintaining a tenant web application using AngularJS 1, and RequireJS.",
+        "Maintaining a shopper web application using BackboneJS and RequireJS."
+      ]
+    },
+    {
+      "company": "Sentifi",
+      "position": "Front End Developer",
+      "website": "http://sentifi.com",
+      "startDate": "2014-06-01",
+      "endDate": "2015-12-01",
+      "summary": "At Sentifi I was working close with Java team to deliver a web application using AngularJS 1, less and grunt",
+      "highlights": [
+        "Joining an on air project to deliver a financial web application for people concern world market and investment."
+      ]
+    },
+    {
+      "company": "SSTech VN",
+      "position": "Front End Developer",
+      "website": "http://www.sstechvn.com/",
+      "startDate": "2014-01-01",
+      "endDate": "2014-05-30",
+      "summary": "For start-up SSTech I was a Front End Developer working with AngularJS 1, and Ionic to build a betting website and a sporting news application.",
+      "highlights": []
+    },
+    {
+      "company": "Mission College",
+      "position": "Part-time Front End Developer",
+      "website": "",
+      "startDate": "2013-01-12",
+      "endDate": "2013-12-01",
+      "summary": "While studying overseas, I worked as a part-time Front End Developer to maintain website layout for Mission college",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "RMIT Vietnam",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2008-01-01",
+      "endDate": "2012-11-21",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "jQuery",
+        "React",
+        "Angular",
+        "SASS",
+        "LESS",
+        "Gulp",
+        "Webpack",
+        "Bootstrap",
+        "Semantic UI",
+        "Material css",
+        "Node",
+        "Git",
+        "Jira"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
